@@ -1,3 +1,4 @@
+# 哈哈 shadowsocks
 ## Shadowsocks for Android
 
 [![Build Status](https://api.travis-ci.org/shadowsocks/shadowsocks-android.svg)](https://travis-ci.org/shadowsocks/shadowsocks-android)
